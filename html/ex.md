@@ -86,7 +86,7 @@ e.- Párrafo - agrega cualquier texto a este párrafo.
             <img src="" alt="" width="100%" height="100%">
         </div>
         <p>texto...</p>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <p>El primer mensaje que se envió desde una computadora a otra conectadas a ese internet “primitivo” fue “Login” y lo que llegó a la otra computadora fue “Lo”. Aunque no llegó el mensaje completo para ese entonces ya fue un logro. Gracias a que solucionaron ese problema hoy puedes leer este post completo.</p>
     </div>
 </body>
 </html>
@@ -114,7 +114,7 @@ Duplica el div número 1 tres veces.
             <img src="" alt="" width="100%" height="100%">
         </div>
         <p>texto...</p>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <p>El primer mensaje que se envió desde una computadora a otra conectadas a ese internet “primitivo” fue “Login” y lo que llegó a la otra computadora fue “Lo”. Aunque no llegó el mensaje completo para ese entonces ya fue un logro. Gracias a que solucionaron ese problema hoy puedes leer este post completo.</p>
     </div>
     <div>
         <!-- Título h2 -->
@@ -125,7 +125,7 @@ Duplica el div número 1 tres veces.
             <img src="" alt="" width="100%" height="100%">
         </div>
         <p>texto...</p>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <p>El primer mensaje que se envió desde una computadora a otra conectadas a ese internet “primitivo” fue “Login” y lo que llegó a la otra computadora fue “Lo”. Aunque no llegó el mensaje completo para ese entonces ya fue un logro. Gracias a que solucionaron ese problema hoy puedes leer este post completo.</p>
     </div>
     <div>
         <!-- Título h2 -->
@@ -136,7 +136,7 @@ Duplica el div número 1 tres veces.
             <img src="" alt="" width="100%" height="100%">
         </div>
         <p>texto...</p>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <p>El primer mensaje que se envió desde una computadora a otra conectadas a ese internet “primitivo” fue “Login” y lo que llegó a la otra computadora fue “Lo”. Aunque no llegó el mensaje completo para ese entonces ya fue un logro. Gracias a que solucionaron ese problema hoy puedes leer este post completo.</p>
     </div>
 </body>
 </html>
